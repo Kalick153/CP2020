@@ -1,4 +1,5 @@
 import numpy as np
+#внизу пример вывода
 
 A = np.array([(3, 1, 0, 0), (1, 2, 0, 1), (0, 0, 1, 1), (0, 1, 1, 1)])
 vo = np.random.random(4)
